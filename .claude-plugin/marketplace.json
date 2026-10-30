@@ -1,0 +1,15 @@
+{
+  "name": "amplify",
+  "description": "Amplify's plugins for Claude Code",
+  "owner": {
+    "name": "Amplify",
+    "email": "hello@amplify.is"
+  },
+  "plugins": [
+    {
+      "name": "amplify",
+      "source": "./",
+      "description": "Build, edit and preview browser games and web apps in your Amplify account."
+    }
+  ]
+}

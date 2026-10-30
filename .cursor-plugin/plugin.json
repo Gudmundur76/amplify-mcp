@@ -1,0 +1,14 @@
+{
+  "name": "amplify",
+  "version": "1.0.0",
+  "description": "Build, edit and preview browser games and web apps in your Amplify account from Cursor. Connects to Amplify's hosted MCP server; you sign in with your Amplify account.",
+  "author": {
+    "name": "Amplify",
+    "email": "hello@amplify.is"
+  },
+  "homepage": "https://amplify.is/data",
+  "repository": "https://github.com/Gudmundur76/amplify-mcp",
+  "license": "MIT",
+  "keywords": ["games", "game-builder", "browser-games", "web-apps", "app-builder", "mcp"],
+  "logo": "assets/logo.svg"
+}

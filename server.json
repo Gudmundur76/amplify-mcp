@@ -1,0 +1,15 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "is.amplify/amplify",
+  "title": "Amplify",
+  "description": "Build, edit and preview browser games and web apps in your Amplify account from your AI agent.",
+  "version": "1.0.0",
+  "websiteUrl": "https://amplify.is/data",
+  "icons": [
+    { "src": "https://amplify.is/favicon.svg", "mimeType": "image/svg+xml", "sizes": ["any"] },
+    { "src": "https://amplify.is/apple-touch-icon.png", "mimeType": "image/png", "sizes": ["180x180"] }
+  ],
+  "remotes": [
+    { "type": "streamable-http", "url": "https://app.amplify.is/mcp" }
+  ]
+}

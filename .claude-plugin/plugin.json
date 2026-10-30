@@ -1,0 +1,20 @@
+{
+  "name": "amplify",
+  "displayName": "Amplify",
+  "version": "1.0.0",
+  "description": "Build, edit and preview browser games and web apps in your Amplify account from Claude Code. Connects to Amplify's hosted MCP server; you sign in with your Amplify account.",
+  "author": {
+    "name": "Amplify",
+    "email": "hello@amplify.is",
+    "url": "https://amplify.is"
+  },
+  "homepage": "https://amplify.is/data",
+  "repository": "https://github.com/Gudmundur76/amplify-mcp",
+  "license": "MIT",
+  "keywords": ["games", "game-builder", "browser-games", "web-apps", "app-builder", "mcp"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://amplify.is/data",
+  "supportUrl": "https://amplify.is",
+  "privacyPolicyUrl": "https://amplify.is/privacy",
+  "termsOfServiceUrl": "https://amplify.is/terms"
+}

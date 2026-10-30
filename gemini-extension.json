@@ -1,0 +1,11 @@
+{
+  "name": "amplify",
+  "version": "1.0.0",
+  "description": "Build, edit and preview browser games and web apps in your Amplify account from Gemini CLI.",
+  "mcpServers": {
+    "amplify": {
+      "httpUrl": "https://app.amplify.is/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
